@@ -266,11 +266,9 @@ height: 19px;
 width: 134px;
 left: 734px;
 top: 2832px;
-border-radius: nullpx;
 margin-top: 20px;
 margin-left: 250px;
 color: var(--pink-color);
-margin-bottom: 109px;
 }
 
 .pins{
@@ -330,34 +328,6 @@ color: white;
 padding-top: 12px;
 }
 
-.footer{
-    margin: 0 auto ;
-    width: 100%;
-}
-
-.quote{
-    margin-left: 200px;
-    margin-bottom: 28px;
-    margin-top: 86pz;
-}
-   
-.quot__text{
-padding-top: 10px;
-font-family: Lato;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0em;
-text-align: center;
-height: 99px;
-width: 359px;
-left: 230px;
-top: 223px;
-border-radius: nullpx;
-margin-left: 80px;
-}
-
 .copi{
     background: var(--black-bkg);
 }
@@ -383,9 +353,37 @@ padding-top: 10px;
 .copi__title{
     display: flex;
    margin-left: 1300px;
-   padding-top: 0;
 }
 
-.copy__title-wrp{
-
+.quote{
+    min-height: 448px;
+    background-image: url(../img/fonfooter.jpg);
+    background-color: #9F9F9F;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+.quote_img{
+    margin-left: 390px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+  
+}
+.quot__text{
+    height: 99px;
+    width: 359px;
+    left: 230px;
+    top: 223px; 
+    font-family: Lato;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+margin-left: 250px;
+}
+
