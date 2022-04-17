@@ -1,0 +1,53 @@
+
+.sales__list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.sales__item {
+height: 260px;
+width: 360px;
+background-color: var(--sales-bkg);
+}
+
+.sales__item--women {
+    background-image: url(../img/women.jpg);
+}
+
+.sales__item-axxesories {
+    width: 100%;
+    background-image: url(../img/accs.jpg);
+    margin-top: 20px;
+}
+
+.sales__item-man {
+    background-image: url(../img/saleman.jpg);
+}
+.sales__item-kids {
+    background-image: url(../img/kids.jpg);
+}
+
+.sales__item-text {
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+margin-top:100px;
+color: white;
+
+}
+
+.sales__item-title {
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: var(--pink-color);
+}

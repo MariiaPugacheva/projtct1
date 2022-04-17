@@ -1,0 +1,58 @@
+
+.pin_class {
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    height: 38px;
+    width: 300px;
+    left: 734px;
+    top: 2832px;
+    margin-top: 20px;
+    margin-left: 420px;
+    color: var(--pink-color);
+    border-color: #F18B99;
+    }
+    
+    .pin {
+    width: 300px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    padding-left: 38px;
+    padding-right: 38px;
+    
+    }
+    
+    .pin_class:hover {
+        fill: white;
+    }
+    .pin:hover {
+        background: #F18B99;
+        color: #F1E4E6;
+    }
+    
+    .pin:focus {
+        background: #F18B99;
+    }
+    
+    .pins {
+    background-color: var(--black-bkg);
+    }
+    
+    .pin:active {
+        opacity: 0.7;
+    }
+
+    .pin {
+        background-color: transparent;
+        text-align: center;
+        color: #F18B99;
+        border: 1px solid rgb(241, 41, 141);
+      }
+      
+      .pin:hover text{
+          fill: white;
+      }
+      
