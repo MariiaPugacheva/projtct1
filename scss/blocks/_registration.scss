@@ -1,0 +1,94 @@
+
+
+
+
+
+  .registration {
+    flex-grow: 1;
+    background-color: var(--pink-bkg);
+    display: flex;
+    height: 150px;
+  }
+
+  .registration__text {
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 29px;
+    width: 194px;
+    left: 230px;
+    top: 134px;
+    color: #F18B99;
+    padding-left: 230px;
+    padding-top: 59px;
+    padding-bottom: 60px;
+  }
+
+  .registration_input {
+      margin-bottom: 20px;
+      width: 350px;
+      height: 44px;
+      margin-top: 15px;
+  }
+
+.registration__form {
+    padding-left: 230px;
+    padding-top: 60px;
+}
+
+.label {
+    border-radius: 50px;
+}
+
+.sex {
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.registration-comments {
+font-family: Lato;
+font-size: 13px;
+font-weight: 300;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+color: #9F9F9F;
+width: 370px;
+}
+
+.label__par {
+font-family: Lato;
+font-size: 16px;
+font-weight: 300;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 30px;
+color: #5D5D5D;
+}
+
+.registration__now {
+    background-color: #F18B99;
+    color: #F8F8F8;
+    border: none;
+    width: 167px;
+    height: 50px;
+    margin-top: 39px;
+    margin-bottom: 30px;
+}
+
+.registration__now:hover {
+    fill: #F18B99;
+}
+.registration__now:hover {
+    background: white;
+    color: #F18B99;
+    border: 1px solid #F18B99;
+}
+
+.registration__now:focus {
+    background: #F18B99;
+}

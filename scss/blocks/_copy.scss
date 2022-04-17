@@ -1,0 +1,141 @@
+
+.copy {
+    background: var(--black-bkg);
+}
+
+.copyright {
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+height: 19px;
+width: 332px;
+left: 235px;
+top: 3779px;
+border-radius: nullpx;
+color: white;
+margin-left: 100px;
+padding-top: 10px;
+}
+
+.copy__title {
+    display: flex;
+   margin-left: 1500px;
+}
+
+
+.icon__facebook {
+background: white;
+display: block;
+display: flex;
+align-content: center;
+border: 1px solid black;
+margin-right: 5px;
+cursor: pointer;
+}
+
+.icon__instgram {
+    background: white;
+    display: block;
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.icon__pain {
+    background: white;
+    display: block;
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.icon__tweeter {
+    background: white;
+    display: block;
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.icon__facebook:hover {
+    fill: white;
+}
+.icon__facebook:hover {
+    background: #F18B99;
+}
+
+.icon__facebook:focus {
+    background: #F18B99;
+}
+
+.icon__facebook:active {
+    opacity: 0.7;
+}
+
+.product__icon-add-btn:hover {
+    fill: #F18B99;
+}
+
+.product__icon-add-btn:hover {
+    border: 1px solid #F18B99;
+    color: #F18B99;
+}
+
+.product__icon-add-btn:active {
+    border: 1px solid #F18B99;
+    color: #F18B99;
+}
+
+.icon__instgram:hover {
+    fill: white;
+}
+.icon__instgram:hover {
+    background: #F18B99;
+}
+
+.icon__instgram:focus {
+    background: #F18B99;
+}
+
+.icon__instgram:active {
+        opacity: 0.7;
+    }
+
+.icon__pain:hover {
+    fill: white;
+}
+.icon__pain:hover {
+    background: #F18B99;
+}
+
+.icon__pain:active {
+    opacity: 0.7;
+}
+
+.icon__pain:focus {
+    background: #F18B99;
+}
+.icon__tweeter:hover {
+    fill: white;
+}
+.icon__tweeter:hover {
+    background: #F18B99;
+}
+
+.icon__tweeter:focus {
+    background: #F18B99;
+}
+
+.icon__tweeter:active {
+    opacity: 0.7;
+}
